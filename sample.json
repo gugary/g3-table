@@ -1,7 +1,28 @@
 {
-  "cols": ["col one", "col two"],
-  "rows": [
-    [ "cell 11", "cell 12" ],
-    [ "cell 21", "cell 22" ]
-  ]
+    "cols": ["File name", "Git commit description", "How long ago"],
+    "rows": [
+        ["app",	"[autocomplete] autocomplete responses $refs",	"a day ago"],
+        ["docs", "Fix broken link in doc; rename guide to match defaults.json",	"9 days ago"],
+        ["grunt", "[build] remove grunt-rev from build",	"2 days ago"],
+        ["scripts",	"[release] 2.9.7",	"9 days ago"],
+        ["test","[errors][ast-manager] Fix AST Manager behavior for array nodes","8 days ago"],
+        [".bowerrc","Initial commit - text editor all the way","a year ago"],
+        [".dockerignore","Add full steps for Dockerfile and a .dockerignore","a year ago"],
+        [".editorconfig","Initial commit - text editor all the way","a year ago"],
+        [".gitattributes","Initial commit - text editor all the way","a year ago"],
+        [".gitignore","[build] remove dist.zip","4 months ago"],
+        [".jscsrc","[project] remove docs-only remaining code","7 months ago"],
+        [".jshintignore","[project] remove docs-only remaining code","7 months ago"],
+        [".jshintrc","Merge branch 'yaml-worker'","14 days ago"],
+        [".travis.yml","[build] install bower globaly in TravisCI","2 days ago"],
+        ["CONTRIBUTING.md","[docs] add new screenshot","4 months ago"],
+        ["Dockerfile","Use solution from bower bower/bower#866 resolve #279","a month ago"],
+        ["Gruntfile.js","[build] remove grunt-rev from build","2 days ago"],
+        ["LICENSE","Removing notice on L1","9 months ago"],
+        ["README.md","[docs] Fix the download via wget link in README","9 days ago"],
+        ["bower.json","[errors][ast-manager] Fix AST Manager behavior for array nodes","8 days ago"],
+        ["index.html","[dependencies] Update npm and bower dependencies","2 months ago"],
+        ["package.json","[build] remove grunt-rev from build","2 days ago"]
+    ]
 }
+
