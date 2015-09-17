@@ -1,0 +1,7 @@
+{
+  "cols": ["col one", "col two"],
+  "rows": [
+    [ "cell 11", "cell 12" ],
+    [ "cell 21", "cell 22" ]
+  ]
+}
