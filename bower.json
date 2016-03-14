@@ -1,6 +1,6 @@
 {
   "name": "g3-table",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "gugary <gu.gary@gmail.com>"
   ],
@@ -11,8 +11,8 @@
     "test"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#1.1.0",
-    "iron-elements": "Polymerelements/iron-elements#~1.0.3",
-    "paper-elements": "Polymerelements/paper-elements#~1.0.4"
+    "polymer": "Polymer/polymer#1.3.1",
+    "iron-elements": "Polymerelements/iron-elements#~1.0.8",
+    "paper-elements": "Polymerelements/paper-elements#~1.0.7"
   }
 }
